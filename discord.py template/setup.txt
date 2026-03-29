@@ -1,0 +1,6 @@
+1. download python if not installed allready
+2. download the discord library by open your terminal on Linux or cmd on Windows and running the command "pip3 install discord"
+
+to run the file open the folder in the terminal and type "python main.py <TOKEN>
+
+if you do not have a token create one via https://discord.com/developers/applications/ under the bot tab of your application
