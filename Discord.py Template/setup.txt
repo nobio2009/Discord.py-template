@@ -1,2 +1,0 @@
-1. download python if not installed allready
-2. download the discord library by open your terminal on Linux or cmd on Windows and running the command "pip3 install discord"
