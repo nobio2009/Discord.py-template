@@ -133,6 +133,3 @@ __pycache__/
 - [Discord Gateway intents](https://discord.com/developers/docs/events/gateway#gateway-intents)
 - [Discord OAuth2 URL generator](https://discord.com/developers/docs/topics/oauth2)
 
-## License
-
-No license has been specified for this template.
